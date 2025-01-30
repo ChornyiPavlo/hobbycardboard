@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://hobbycardboard.com/sitemap.xml
+Host: hobbycardboard.com
